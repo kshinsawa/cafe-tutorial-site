@@ -359,7 +359,7 @@ footer p {
     }
 
     .big-box img {
-        height: 100%;
+        height: auto;
     }
 
 }
