@@ -1,2 +1,3 @@
 # .gitignore が置かれたディレクトリ内の対象ファイルを除外
 /.DS_Store
+_config.yml
