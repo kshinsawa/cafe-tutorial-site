@@ -85,7 +85,7 @@ img {
 }
 
 .button:hover {
-    background: #0090aa;
+    background: #adbabd;
 }
 
 /* 大きな背景画像 */
@@ -232,7 +232,7 @@ aside p {
 }
 
 .menu-content {
-    min-width: 560px;
+    max-width: 560px;
     margin-top: 10%;
 }
 
@@ -436,7 +436,7 @@ footer p {
         margin-left: 80px;
     }
 
-    /* NEWS */
+    /* MENU */
     .menu-content {
         margin-top: 20%;
     }
